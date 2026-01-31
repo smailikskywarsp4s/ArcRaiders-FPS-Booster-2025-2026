@@ -1,4 +1,4 @@
-                                                                                 ![hq720](https://github.com/user-attachments/assets/e93bcaa5-465c-44f3-af11-901f045ee80f)
+                                                                               
 
 # ArcRaiders-FPS-Booster-2025-2026
 **Arc Raiders FPS Booster**
