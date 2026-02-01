@@ -5,29 +5,29 @@
 **Arc Raiders FPS Booster**
 A toolkit for optimizing performance and frame rate in Arc Raiders: reducing stuttering, improving frame pacing, and optimizing system/game settings for smoother gameplay.
 
-**⚠️ **Disclaimer:** ⚠️
-This project is not affiliated with Arc Raiders or Embark Studios.
-Use at your own risk. Do not use it to bypass protection, cheat, or violate the game's Terms of Service.**
+> ⚠️ Disclaimer: ⚠️
+> This project is not affiliated with Arc Raiders or Embark Studios.
+> Use at your own risk. Do not use it to bypass protection, cheat, or violate the game's Terms of Service.**
 
-✨ **Features** ✨
-✅ Easy-to-use optimization presets (FPS-focused / balanced / low latency) ✅
-✅ Tips for reducing stuttering and automatic tweaks (where applicable) ✅
-✅ Optional configuration backup/restore ✅
-✅ Lightweight and reversible changes ✅
-✅ Clear documentation of all applied modifications ✅
+✨ Features ✨
+> - ✅ Easy-to-use optimization presets (FPS-focused / balanced / low latency) ✅
+> - ✅ Tips for reducing stuttering and automatic tweaks (where applicable) ✅
+> - ✅ Optional configuration backup/restore ✅
+> - ✅ Lightweight and reversible changes ✅
+> - ✅ Clear documentation of all applied modifications ✅
 
-📌 **What this project is (and is not)**
-This is: a performance tuning assistant (system and in-game settings, safe defaults, reversible actions).
-This is NOT: cheats, aim assist, wallhack, injector, anti-cheat bypass, or anything that alters game integrity. 📌
+> 📌 **What this project is (and is not)**
+> This is: a performance tuning assistant (system and in-game settings, safe defaults, reversible actions).
+> This is NOT: cheats, aim assist, wallhack, injector, anti-cheat bypass, or anything that alters game integrity. 📌
 
-📌If you are unsure whether a particular tweak is allowed, do not enable it.📌
+> 📌If you are unsure whether a particular tweak is allowed, do not enable it.📌
 
-🚀 **Quick Start** 🚀 
+> 🚀 **Quick Start** 🚀 
 
-✨FPS — maximum performance✨
-✨Balanced — best compromise✨
-✨Low Latency — smoother input feel✨
-✨Restart your device (only if prompted by the program)✨.
+> - ✨FPS — maximum performance✨
+> - ✨Balanced — best compromise✨
+> - ✨Low Latency — smoother input feel✨
+> - ✨Restart your device (only if prompted by the program)✨.
 
 
 - arc-raiders
